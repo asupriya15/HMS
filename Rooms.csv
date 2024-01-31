@@ -1,0 +1,121 @@
+room_id,Type,price,status
+1,Double,$64.18 ,Reserved
+2,Single,$80.56 ,Not reserved
+3,Single,$12.19 ,Reserved
+4,Single,$66.80 ,Reserved
+5,Double,$37.17 ,Not reserved
+6,Deluxe,$49.70 ,Not reserved
+7,Deluxe,$98.07 ,Not reserved
+8,Double,$15.77 ,Not reserved
+9,Single,$56.86 ,Not reserved
+10,Double,$49.14 ,Not reserved
+11,Double,$37.29 ,Reserved
+12,Double,$44.83 ,Not reserved
+13,Deluxe,$30.57 ,Not reserved
+14,Deluxe,$69.40 ,Reserved
+15,Double,$36.80 ,Reserved
+16,Deluxe,$46.54 ,Not reserved
+17,Single,$50.60 ,Not reserved
+18,Single,$57.56 ,Reserved
+19,Single,$93.72 ,Reserved
+20,Single,$29.97 ,Not reserved
+21,Deluxe,$15.79 ,Not reserved
+22,Single,$78.69 ,Reserved
+23,Single,$31.09 ,Not reserved
+24,Double,$92.36 ,Not reserved
+25,Double,$45.93 ,Reserved
+26,Double,$12.55 ,Not reserved
+27,Deluxe,$96.71 ,Reserved
+28,Double,$20.39 ,Not reserved
+29,Single,$46.96 ,Not reserved
+30,Double,$89.86 ,Not reserved
+31,Double,$10.44 ,Reserved
+32,Deluxe,$24.82 ,Not reserved
+33,Single,$76.33 ,Reserved
+34,Single,$56.95 ,Reserved
+35,Deluxe,$80.17 ,Reserved
+36,Double,$33.68 ,Reserved
+37,Double,$74.79 ,Reserved
+38,Single,$18.09 ,Not reserved
+39,Single,$14.13 ,Not reserved
+40,Single,$25.30 ,Not reserved
+41,Single,$76.80 ,Reserved
+42,Single,$12.74 ,Reserved
+43,Double,$17.23 ,Not reserved
+44,Single,$56.29 ,Not reserved
+45,Single,$24.61 ,Not reserved
+46,Deluxe,$52.58 ,Reserved
+47,Single,$87.56 ,Not reserved
+48,Deluxe,$90.69 ,Reserved
+49,Double,$11.27 ,Reserved
+50,Single,$65.28 ,Not reserved
+51,Double,$38.63 ,Reserved
+52,Double,$76.63 ,Reserved
+53,Deluxe,$72.15 ,Reserved
+54,Deluxe,$65.09 ,Reserved
+55,Double,$68.09 ,Not reserved
+56,Double,$57.07 ,Not reserved
+57,Single,$28.64 ,Not reserved
+58,Deluxe,$14.56 ,Reserved
+59,Double,$25.93 ,Not reserved
+60,Deluxe,$16.14 ,Reserved
+61,Single,$29.68 ,Reserved
+62,Single,$81.09 ,Not reserved
+63,Deluxe,$14.34 ,Not reserved
+64,Single,$49.33 ,Reserved
+65,Deluxe,$20.43 ,Not reserved
+66,Deluxe,$41.73 ,Reserved
+67,Deluxe,$96.45 ,Reserved
+68,Double,$30.09 ,Not reserved
+69,Double,$84.04 ,Reserved
+70,Single,$73.05 ,Not reserved
+71,Deluxe,$71.89 ,Not reserved
+72,Deluxe,$80.41 ,Reserved
+73,Deluxe,$90.34 ,Not reserved
+74,Deluxe,$66.38 ,Reserved
+75,Single,$26.14 ,Not reserved
+76,Double,$96.38 ,Reserved
+77,Single,$64.12 ,Not reserved
+78,Deluxe,$29.81 ,Reserved
+79,Deluxe,$51.70 ,Not reserved
+80,Double,$89.50 ,Reserved
+81,Single,$96.13 ,Not reserved
+82,Double,$94.16 ,Not reserved
+83,Deluxe,$69.21 ,Not reserved
+84,Double,$54.67 ,Reserved
+85,Double,$28.73 ,Reserved
+86,Deluxe,$38.58 ,Reserved
+87,Double,$84.09 ,Not reserved
+88,Double,$53.45 ,Not reserved
+89,Deluxe,$21.69 ,Reserved
+90,Deluxe,$16.08 ,Reserved
+91,Double,$70.17 ,Not reserved
+92,Single,$96.41 ,Not reserved
+93,Double,$98.51 ,Reserved
+94,Single,$58.77 ,Reserved
+95,Double,$78.97 ,Reserved
+96,Double,$81.75 ,Not reserved
+97,Deluxe,$64.31 ,Reserved
+98,Double,$81.12 ,Reserved
+99,Single,$38.07 ,Reserved
+100,Deluxe,$83.68 ,Reserved
+101,Single,$11.12 ,Not reserved
+102,Double,$92.78 ,Reserved
+103,Deluxe,$39.74 ,Not reserved
+104,Deluxe,$85.28 ,Reserved
+105,Single,$58.56 ,Not reserved
+106,Double,$18.94 ,Reserved
+107,Single,$37.06 ,Not reserved
+108,Double,$53.83 ,Reserved
+109,Single,$44.23 ,Reserved
+110,Double,$46.88 ,Not reserved
+111,Deluxe,$78.68 ,Not reserved
+112,Deluxe,$15.17 ,Not reserved
+113,Single,$94.02 ,Reserved
+114,Deluxe,$43.83 ,Reserved
+115,Single,$29.56 ,Reserved
+116,Deluxe,$79.69 ,Not reserved
+117,Double,$76.35 ,Not reserved
+118,Deluxe,$41.07 ,Reserved
+119,Deluxe,$36.68 ,Not reserved
+120,Double,$25.33 ,Not reserved

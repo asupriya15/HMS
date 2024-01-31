@@ -1,0 +1,121 @@
+maintenance_id ,Issue,dateReported,Status
+1,maintenance issues,2/12/2024,Pending
+2,uncomfortable bed,1/12/2024,Resolved
+3,poor customer service,1/30/2024,Resolved
+4,maintenance issues,1/29/2024,Resolved
+5,elevator malfunction,1/20/2024,Resolved
+6,slow Wi-Fi,1/31/2024,Resolved
+7,unresponsive staff,3/1/2024,Pending
+8,lack of hot water,2/20/2024,Pending
+9,inadequate housekeeping,1/13/2024,Resolved
+10,inaccurate room description,1/31/2024,Pending
+11,inadequate parking,2/28/2024,Pending
+12,broken air conditioning,1/6/2024,Resolved
+13,unpleasant odors,1/12/2024,Resolved
+14,inadequate parking,1/22/2024,Resolved
+15,noisy neighbors,1/10/2024,Pending
+16,security concerns,2/25/2024,Pending
+17,inadequate housekeeping,1/3/2024,Resolved
+18,poor customer service,2/14/2024,Pending
+19,food quality,1/8/2024,Resolved
+20,elevator malfunction,2/14/2024,Pending
+21,unresponsive staff,2/22/2024,Pending
+22,security concerns,1/3/2024,Pending
+23,uncomfortable bed,2/26/2024,Resolved
+24,food quality,3/7/2024,Pending
+25,missing amenities,1/27/2024,Pending
+26,maintenance issues,1/14/2024,Resolved
+27,inadequate parking,2/10/2024,Pending
+28,poor room service,2/29/2024,Resolved
+29,check-in delay,1/3/2024,Resolved
+30,lack of hot water,2/24/2024,Pending
+31,slow Wi-Fi,2/2/2024,Pending
+32,check-in delay,2/21/2024,Pending
+33,poor room service,1/24/2024,Resolved
+34,elevator malfunction,1/23/2024,Resolved
+35,inadequate parking,2/24/2024,Pending
+36,maintenance issues,1/21/2024,Pending
+37,noisy neighbors,3/2/2024,Pending
+38,food quality,2/13/2024,Resolved
+39,inadequate parking,2/20/2024,Resolved
+40,room cleanliness,2/6/2024,Resolved
+41,food quality,2/14/2024,Pending
+42,broken air conditioning,2/10/2024,Resolved
+43,maintenance issues,1/23/2024,Pending
+44,slow Wi-Fi,2/8/2024,Pending
+45,missing amenities,2/20/2024,Pending
+46,broken air conditioning,2/17/2024,Resolved
+47,poor room service,1/26/2024,Pending
+48,slow Wi-Fi,1/8/2024,Pending
+49,check-in delay,2/9/2024,Resolved
+50,poor room service,2/6/2024,Resolved
+51,maintenance issues,2/24/2024,Pending
+52,unresponsive staff,2/9/2024,Resolved
+53,security concerns,3/4/2024,Resolved
+54,billing errors,2/15/2024,Resolved
+55,billing errors,2/6/2024,Pending
+56,unresponsive staff,2/15/2024,Pending
+57,food quality,1/30/2024,Pending
+58,poor room service,2/2/2024,Resolved
+59,uncomfortable bed,1/22/2024,Pending
+60,poor room service,2/24/2024,Resolved
+61,check-in delay,1/17/2024,Pending
+62,inaccurate room description,1/22/2024,Pending
+63,missing amenities,2/11/2024,Resolved
+64,check-in delay,2/6/2024,Pending
+65,poor customer service,2/14/2024,Pending
+66,billing errors,1/18/2024,Resolved
+67,billing errors,2/14/2024,Resolved
+68,check-in delay,1/4/2024,Resolved
+69,billing errors,2/4/2024,Pending
+70,poor room service,2/7/2024,Resolved
+71,noisy neighbors,3/1/2024,Pending
+72,unresponsive staff,3/5/2024,Resolved
+73,elevator malfunction,2/9/2024,Pending
+74,security concerns,2/28/2024,Pending
+75,broken air conditioning,1/8/2024,Pending
+76,missing amenities,2/21/2024,Resolved
+77,security concerns,1/30/2024,Pending
+78,slow Wi-Fi,2/5/2024,Pending
+79,inadequate housekeeping,1/27/2024,Resolved
+80,unresponsive staff,2/29/2024,Pending
+81,poor customer service,1/23/2024,Resolved
+82,maintenance issues,1/19/2024,Resolved
+83,maintenance issues,2/6/2024,Pending
+84,poor room service,2/8/2024,Resolved
+85,maintenance issues,2/23/2024,Pending
+86,unpleasant odors,1/30/2024,Pending
+87,noisy neighbors,1/26/2024,Resolved
+88,food quality,2/22/2024,Resolved
+89,food quality,1/9/2024,Pending
+90,poor room service,1/24/2024,Resolved
+91,check-in delay,1/2/2024,Resolved
+92,inadequate parking,1/30/2024,Resolved
+93,check-in delay,1/26/2024,Pending
+94,unresponsive staff,3/6/2024,Pending
+95,poor room service,3/9/2024,Resolved
+96,uncomfortable bed,1/29/2024,Pending
+97,inaccurate room description,1/5/2024,Pending
+98,room cleanliness,1/9/2024,Resolved
+99,missing amenities,1/7/2024,Resolved
+100,uncomfortable bed,2/16/2024,Pending
+101,lack of hot water,3/4/2024,Pending
+102,poor room service,2/22/2024,Pending
+103,inadequate parking,3/3/2024,Pending
+104,billing errors,2/26/2024,Resolved
+105,slow Wi-Fi,1/7/2024,Resolved
+106,billing errors,3/2/2024,Resolved
+107,billing errors,3/6/2024,Pending
+108,unresponsive staff,2/21/2024,Resolved
+109,maintenance issues,1/3/2024,Pending
+110,elevator malfunction,1/21/2024,Pending
+111,billing errors,1/29/2024,Resolved
+112,elevator malfunction,1/16/2024,Pending
+113,food quality,1/29/2024,Resolved
+114,maintenance issues,1/22/2024,Resolved
+115,room cleanliness,3/1/2024,Resolved
+116,poor room service,2/27/2024,Pending
+117,slow Wi-Fi,2/15/2024,Pending
+118,security concerns,2/17/2024,Pending
+119,lack of hot water,3/5/2024,Pending
+120,food quality,1/1/2024,Resolved
